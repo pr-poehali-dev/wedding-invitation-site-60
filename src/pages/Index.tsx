@@ -118,8 +118,7 @@ const Index = () => {
                 <div className="text-center max-w-3xl mx-auto">
                   <Icon name="Heart" size={48} className="mx-auto mb-6 text-primary" />
                   <p className="text-xl text-foreground leading-relaxed">
-                    Мы встретились холодным зимним вечером в уютной кофейне. 
-                    Случайный взгляд превратился в долгий разговор, который длится уже 5 лет. 
+                    Мы познакомились в интернете, пошли гулять и даже не думали, что это перерастет в любовь. 
                     Теперь мы готовы сказать "Да!" друг другу навсегда.
                   </p>
                 </div>
