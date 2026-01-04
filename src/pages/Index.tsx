@@ -68,7 +68,7 @@ const Index = () => {
               <span className="text-8xl">💍</span>
             </div>
             <h1 className="text-7xl md:text-9xl font-bold text-primary mb-6 tracking-tight">
-              Анна & Максим
+              Елизавета & Вадим
             </h1>
             <p className="text-2xl md:text-3xl text-muted-foreground mb-8 font-light">
               Приглашаем вас разделить с нами самый счастливый день
@@ -89,7 +89,7 @@ const Index = () => {
               <Card className="border-2 border-pink-200 shadow-xl hover:shadow-2xl transition-shadow">
                 <CardHeader>
                   <CardTitle className="text-4xl text-center">💕</CardTitle>
-                  <CardTitle className="text-3xl text-center text-primary">Анна</CardTitle>
+                  <CardTitle className="text-3xl text-center text-primary">Елизавета</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg text-muted-foreground text-center leading-relaxed">
@@ -102,7 +102,7 @@ const Index = () => {
               <Card className="border-2 border-purple-200 shadow-xl hover:shadow-2xl transition-shadow">
                 <CardHeader>
                   <CardTitle className="text-4xl text-center">💙</CardTitle>
-                  <CardTitle className="text-3xl text-center text-accent">Максим</CardTitle>
+                  <CardTitle className="text-3xl text-center text-accent">Вадим</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg text-muted-foreground text-center leading-relaxed">
@@ -265,7 +265,7 @@ const Index = () => {
           <div className="max-w-4xl mx-auto space-y-4">
             <div className="text-6xl mb-4">💑</div>
             <p className="text-2xl font-light">
-              С любовью, Анна и Максим
+              С любовью, Елизавета и Вадим
             </p>
             <p className="text-lg opacity-90">
               По всем вопросам: +7 (999) 123-45-67
