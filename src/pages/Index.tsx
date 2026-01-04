@@ -118,8 +118,8 @@ const Index = () => {
                 <div className="text-center max-w-3xl mx-auto">
                   <Icon name="Heart" size={48} className="mx-auto mb-6 text-primary" />
                   <p className="text-xl text-foreground leading-relaxed">
-                    Мы познакомились в интернете, пошли гулять и даже не думали, что это перерастет в любовь. 
-                    Теперь мы готовы сказать "Да!" друг другу навсегда.
+                    Познакомились в интернете, пошли гулять, даже не задумываясь о том, что влюбимся. 
+                    И спустя два года скажем друг другу "Да" на всю жизнь.
                   </p>
                 </div>
               </CardContent>
