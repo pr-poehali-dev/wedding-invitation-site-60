@@ -93,8 +93,8 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg text-muted-foreground text-center leading-relaxed">
-                    Творческая душа, любит цветы и мечтает о путешествиях. 
-                    Её улыбка освещает самые темные дни.
+                    Творческая натура, любит сериалы и мечтает о путешествиях. 
+                    Её смех и улыбка делают день лучше.
                   </p>
                 </CardContent>
               </Card>
@@ -106,8 +106,8 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-lg text-muted-foreground text-center leading-relaxed">
-                    Надежная опора, любит музыку и готовит невероятные ужины.
-                    Его юмор делает каждый день особенным.
+                    Надежная опора, любит игры и готовит невероятные ужины.
+                    Его юмор поднимает настроение.
                   </p>
                 </CardContent>
               </Card>
